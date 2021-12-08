@@ -1,0 +1,2 @@
+--select * from v_trade_session where exchange_id = ? and trunc(BEGIN_DATETIME) = TO_DATE(?,'yyyymmdd') and IS_CURRENT = 1
+select * from SC_CONFIG

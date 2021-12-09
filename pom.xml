@@ -174,24 +174,24 @@
                     <systemProperties>
                         <!--suppress UnresolvedMavenProperty -->
 
-                        <property>
+<!--                        <property>
 
                             <name>allure.results.directory</name>
                             <value>${project.build.directory}/allure-results</value>
-                        </property>
+                        </property>-->
                     </systemProperties>
                 </configuration>
             </plugin>
 
 
-            <plugin>
+<!--            <plugin>
                 <groupId>io.qameta.allure</groupId>
                 <artifactId>allure-maven</artifactId>
                 <configuration>
                     <propertiesFilePath>src\test\resources\allure.ru.kamatech.qaaf.properties</propertiesFilePath>
                 </configuration>
                 <version>2.10.0</version>
-            </plugin>
+            </plugin>-->
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

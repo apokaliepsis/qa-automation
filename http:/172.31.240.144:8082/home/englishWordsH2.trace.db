@@ -1,0 +1,4 @@
+2021-12-08 22:50:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "WORDS" не найдена
+Table "WORDS" not found; SQL statement:
+select* from words [42102-193]

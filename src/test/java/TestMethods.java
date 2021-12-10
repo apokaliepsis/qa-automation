@@ -1,8 +1,7 @@
 
-import org.assertj.core.api.Assertions;
-import org.testng.annotations.Test;
+
+import org.junit.jupiter.api.Test;
 import ru.kamatech.qaaf.database.JDBI;
-import ru.kamatech.qaaf.properties.Properties;
 
 import java.io.File;
 import java.sql.*;

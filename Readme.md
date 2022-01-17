@@ -1,7 +1,7 @@
-#QA-Automation
+# QA-Automation
 Test Automation Framework
 
-##Opportunities
+## Opportunities
 - Database Operation
 - Working with jenkins
 - Graphics library for clicking on an image
